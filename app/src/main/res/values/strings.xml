@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GPbus</string>
+    <string name="logo_trans">logo_transparent</string>
+    <string name="prompt_email">Usuario</string>
+    <string name="prompt_password">Senha</string>
+    <string name="prompt_sing_up">Cadastre-se</string>
+    <string name="prompt_forgot_password">Esqueci a senha</string>
+    <string name="action_sign_in">Login</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Bem-Vindo!!!"</string>
+    <string name="invalid_username">Usuario invalido</string>
+    <string name="invalid_password">Senha deve ter mais que 5 caracteres</string>
+    <string name="login_failed">"Login falhou"</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
